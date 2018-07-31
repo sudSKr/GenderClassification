@@ -1,0 +1,12 @@
+org.apache.commons.lang3.reflect.TypeLiteralTest$10
+org.apache.commons.lang3.reflect.TypeLiteralTest$11
+org.apache.commons.lang3.reflect.TypeLiteralTest$1
+org.apache.commons.lang3.reflect.TypeLiteralTest$2
+org.apache.commons.lang3.reflect.TypeLiteralTest
+org.apache.commons.lang3.reflect.TypeLiteralTest$3
+org.apache.commons.lang3.reflect.TypeLiteralTest$4
+org.apache.commons.lang3.reflect.TypeLiteralTest$5
+org.apache.commons.lang3.reflect.TypeLiteralTest$6
+org.apache.commons.lang3.reflect.TypeLiteralTest$7
+org.apache.commons.lang3.reflect.TypeLiteralTest$8
+org.apache.commons.lang3.reflect.TypeLiteralTest$9

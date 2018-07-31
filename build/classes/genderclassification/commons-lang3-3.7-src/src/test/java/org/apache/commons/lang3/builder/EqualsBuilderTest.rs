@@ -1,0 +1,16 @@
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestEmptySubObject
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestObjectReference
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestTSubObject
+org.apache.commons.lang3.builder.EqualsBuilderTest
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestSubObject
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestTTSubObject
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestBCanEqualA
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestTTLeafObject
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestRecursiveCycleObject
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestRecursiveInnerObject
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestTSubObject2
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestRecursiveObject
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestACanEqualB
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestObjectEqualsExclude
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestObject
+org.apache.commons.lang3.builder.EqualsBuilderTest$TestObjectWithMultipleFields

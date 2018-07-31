@@ -1,0 +1,3 @@
+org.apache.commons.lang3.builder.ReflectionDiffBuilderTest$TypeTestClass
+org.apache.commons.lang3.builder.ReflectionDiffBuilderTest$TypeTestChildClass
+org.apache.commons.lang3.builder.ReflectionDiffBuilderTest

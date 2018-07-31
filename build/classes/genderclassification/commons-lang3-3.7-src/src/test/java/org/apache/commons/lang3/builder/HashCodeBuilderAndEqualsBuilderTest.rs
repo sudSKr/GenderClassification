@@ -1,0 +1,5 @@
+org.apache.commons.lang3.builder.HashCodeBuilderAndEqualsBuilderTest
+org.apache.commons.lang3.builder.HashCodeBuilderAndEqualsBuilderTest$SubAllTransientFixture
+org.apache.commons.lang3.builder.HashCodeBuilderAndEqualsBuilderTest$TestFixture
+org.apache.commons.lang3.builder.HashCodeBuilderAndEqualsBuilderTest$AllTransientFixture
+org.apache.commons.lang3.builder.HashCodeBuilderAndEqualsBuilderTest$SubTestFixture

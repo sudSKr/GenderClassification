@@ -1,0 +1,2 @@
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest$CustomCharSequence

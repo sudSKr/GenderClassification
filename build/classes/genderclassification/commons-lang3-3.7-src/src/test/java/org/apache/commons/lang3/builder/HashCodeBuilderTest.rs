@@ -1,0 +1,8 @@
+org.apache.commons.lang3.builder.HashCodeBuilderTest$TestObjectHashCodeExclude
+org.apache.commons.lang3.builder.HashCodeBuilderTest$TestObjectHashCodeExclude2
+org.apache.commons.lang3.builder.HashCodeBuilderTest
+org.apache.commons.lang3.builder.HashCodeBuilderTest$TestObject
+org.apache.commons.lang3.builder.HashCodeBuilderTest$ReflectionTestCycleA
+org.apache.commons.lang3.builder.HashCodeBuilderTest$TestSubObject
+org.apache.commons.lang3.builder.HashCodeBuilderTest$ReflectionTestCycleB
+org.apache.commons.lang3.builder.HashCodeBuilderTest$TestObjectWithMultipleFields
